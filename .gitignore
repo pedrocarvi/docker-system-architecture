@@ -1,0 +1,45 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar archivos y directorios específicos para Docker
+Dockerfile
+docker-compose.yml
+
+# Ignorar archivos de construcción y caché de Docker
+*.log
+*.gz
+*.tar
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.lz4
+*.tar.lzma
+*.tar.Z
+*.tgz
+*.bz2
+*.xz
+*.lzma
+*.Z
+*.lz4
