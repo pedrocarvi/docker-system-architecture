@@ -1,7 +1,7 @@
 Requirements to be able to run the project:
 Download Docker
 
-INSTALLATION
+## INSTALLATION
 
 Once Docker is downloaded, download the image with the following command: 
 
