@@ -23,7 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Ignorar archivos y directorios específicos para Docker
-Dockerfile
 docker-compose.yml
 
 # Ignorar archivos de construcción y caché de Docker
